@@ -1,9 +1,8 @@
 # ACTIVE DIRECTORY PROJECT
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+The Active Directory project aimed to establish a controlled environment for managing and securing an organization's network infrastructure. The primary focus was to configure and monitor AD services, including authentication, access control, and policy enforcement, while integrating with security tools for monitoring suspicious activities. This hands-on experience was designed to deepen understanding of identity management, security best practices, and system administration.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
