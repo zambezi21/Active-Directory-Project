@@ -51,7 +51,7 @@ The Active Directory project aimed to establish a controlled environment for man
 
   ![VirtualBox_ADDCO1_08_10_2024_15_28_09](https://github.com/user-attachments/assets/09adec23-be71-453b-8592-5dc31a10a2c9)
 
-  *Ref 6:Install for the AD Domain services*
+  *Ref 6: Install for the AD Domain services*
 
   ![VirtualBox_ADDCO1_08_10_2024_15_54_21](https://github.com/user-attachments/assets/574ef0b7-ec62-4e83-bef7-dd26d7289657)
 
