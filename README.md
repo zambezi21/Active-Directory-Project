@@ -15,11 +15,11 @@ The Active Directory project aimed to establish a controlled environment for man
 - Troubleshooting and Monitoring
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Security Information and Event Management (SIEM) system for log ingestion and analysis(Splunk).
+- Windows Server and Windows 10.
+- Kali Linux.
+- Event Logging tools(SYSMON).
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
