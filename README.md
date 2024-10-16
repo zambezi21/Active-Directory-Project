@@ -61,10 +61,10 @@ The Active Directory project aimed to establish a controlled environment for man
 
  *Ref 8: Joining the Domain*
 
- -The fifth and final part is use Kali to preform a Brute Force Attack on the Domain users and view telemetry via Splunk.
+ - The fifth and final part is use Kali to preform a Brute Force Attack on the Domain users and view telemetry via Splunk. Set up the static Ip for Kali of 192.168.10.250. Then create a new directory called ad-project. Install crowbar to use for Brute Force Attack to gain the login info for the users. Unzip the rockyou.txt, and then add the first 20 lines of the text into a text file called passwords and then add the password of user tsmith. Then enable remote desktop on the Windows target machine. Add the users created to have RDP access. 
  
  ![Screenshot(9)](https://github.com/user-attachments/assets/03685e4a-5b9c-4718-8438-8f80b741f689)
 
- *Ref 9: Setting up Static IP on Splunk Server*
+ *Ref 9: Brute Force run and results of the password for user tsmith*
    
 
