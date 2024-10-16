@@ -59,7 +59,7 @@ The Active Directory project aimed to establish a controlled environment for man
 
   ![Screenshot(8)](https://github.com/user-attachments/assets/d338ba4a-578d-4725-a1f0-d5a84f90b5f7)
 
- *Ref 8:Joining the Domain*
+ *Ref 8: Joining the Domain*
 
  -The fifth and final part is use Kali to preform a Brute Force Attack on the Domain users and view telemetry via Splunk.
  
