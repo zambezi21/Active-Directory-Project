@@ -24,7 +24,8 @@ The Active Directory project aimed to establish a controlled environment for man
 
 ## Steps
 The first step that was taken was to create a diagram of the project.
-drag & drop screenshots here or use imgur and reference them using imgsrc![Screenshot (7)](https://github.com/user-attachments/assets/942d5a53-d140-41e4-82aa-72c1851c8b92)
+![Screenshot (7)](https://github.com/user-attachments/assets/3f32fe29-976e-4182-afb9-6f131d873e58)
+*Ref 1: Network Diagram*
 
 
 Every screenshot should have some text explaining what the screenshot is about.
