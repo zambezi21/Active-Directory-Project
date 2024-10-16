@@ -45,7 +45,7 @@ The Active Directory project aimed to establish a controlled environment for man
 
 ![VirtualBox_Windows 10_08_10_2024_14_04_15](https://github.com/user-attachments/assets/3f8eddff-6567-4a6d-84c9-8efdc7f551d2)
 
- *Ref 2: Screen that you will have if both windows target and server have splunk and sysmon installed and giving data*
+ *Ref 2: Screen that you will have if both Windows Target and Windows Server have Splunk and Sysmon installed and giving data*
 
 - The fourth step was to install and configure Active Directory onto the Windows Server, promote the AD to a Domain Contoller, and congfigure the target machine to join the new Domain.
 
