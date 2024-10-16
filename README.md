@@ -32,6 +32,7 @@ The Active Directory project aimed to establish a controlled environment for man
 - Install and Configure Software that will be used(SYSMON and Splunk).
   
   ![VirtualBox_Splunk_07_10_2024_14_09_16](https://github.com/user-attachments/assets/bba7605a-5bd6-4088-bdbe-fae2de1d644b)
-  *Ref 2: Setting up Static IP on Splunk Server*
+
+   *Ref 2: Setting up Static IP on Splunk Server*
    
 
