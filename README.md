@@ -12,6 +12,7 @@ The Active Directory project aimed to establish a controlled environment for man
 - Authentication and Access Control
 - Domain Services Setup
 - Active Directory Security
+- Ability to generate and recongnize attack signatures and patterns.
 - Troubleshooting and Monitoring
 
 ### Tools Used
