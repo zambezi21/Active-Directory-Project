@@ -29,7 +29,7 @@ The Active Directory project aimed to establish a controlled environment for man
   *Ref 1: Network Diagram*
 
 - The second step was to install the 4 main machines that would be used for the project. This would be a Windows 10 Machine, Windows Server 2022, Splunk server, and Kali on Virual Box.
-- The 3rd Step was to install and configure software that will be used(SYSMON and Splunk).
+- The third step was to install and configure software that will be used(SYSMON and Splunk).
   
   ![VirtualBox_Splunk_07_10_2024_14_09_16](https://github.com/user-attachments/assets/bba7605a-5bd6-4088-bdbe-fae2de1d644b)
 
