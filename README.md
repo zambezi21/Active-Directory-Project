@@ -23,13 +23,7 @@ The Active Directory project aimed to establish a controlled environment for man
 - Event Logging tools(SYSMON).
 
 ## Steps
-The first step that was taken was to create a diagram of the project.
+1. The first step that was taken was to create a diagram of the project.
 ![Screenshot (7)](https://github.com/user-attachments/assets/3f32fe29-976e-4182-afb9-6f131d873e58)
 *Ref 1: Network Diagram*
-
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+2. The next step was to install the 4 main machines that would be used for the project. This would be a Windows 10 Machine, Windows Server 2022, Splunk server, and Kali on Virual Box.
