@@ -29,7 +29,7 @@ The Active Directory project aimed to establish a controlled environment for man
  *Ref 1: Network Diagram*
 
 - The second step was to install the 4 main machines that would be used for the project. This would be a Windows 10 Machine, Windows Server 2022, Splunk server, and Kali on Virual Box.
-- The third step was to install and configure software that will be used(SYSMON and Splunk). This involved setting up a static ip on the splunk server for it to use, install splunk on the server, and running a command to make Splunk start up every time the Splunk Server VM reboots. As well as installing Sysmon and Splunk on both Windows machines as well as Splunk Universal Forwarder Then the same steps have to be taken on the Windows Server. If everything is set up correctly Splunk will have 2 hosts that is pulling data
+- The third step was to install and configure software that will be used(SYSMON and Splunk). This involved setting up a static ip on the splunk server for it to use, install splunk on the server, and running a command to make Splunk start up every time the Splunk Server VM reboots. As well as installing Sysmon and Splunk on both Windows machines as well as Splunk Universal Forwarder. Then the same steps have to be taken on the Windows Server. If everything is set up correctly Splunk will have 2 hosts that is pulling data.
   
 ![VirtualBox_Splunk_07_10_2024_14_09_16](https://github.com/user-attachments/assets/bba7605a-5bd6-4088-bdbe-fae2de1d644b)
 
@@ -47,7 +47,6 @@ The Active Directory project aimed to establish a controlled environment for man
 
  *Ref 2: Screen that you will have if both windows target and server have splunk and sysmon installed and giving data*
 
-Then install both Sysmon and Splunk onto the Windows Target Machine and Windows Server
 - The fourth step was to install and configure Active Directory onto the Windows Server, promote the AD to a Domain Contoller, and congfigure the target machine to join the new Domain.
 
   
