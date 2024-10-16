@@ -26,14 +26,14 @@ The Active Directory project aimed to establish a controlled environment for man
 - The first step that was taken was to create a diagram of the project.
 
 ![Screenshot (7)](https://github.com/user-attachments/assets/3f32fe29-976e-4182-afb9-6f131d873e58)
-  *Ref 1: Network Diagram*
+ *Ref 1: Network Diagram*
 
 - The second step was to install the 4 main machines that would be used for the project. This would be a Windows 10 Machine, Windows Server 2022, Splunk server, and Kali on Virual Box.
 - The third step was to install and configure software that will be used(SYSMON and Splunk). This involved setting up a static ip on the splunk server for it to use, install splunk on the server, and running a command to make Splunk start up every time the Splunk Server VM reboots.
   
 ![VirtualBox_Splunk_07_10_2024_14_09_16](https://github.com/user-attachments/assets/bba7605a-5bd6-4088-bdbe-fae2de1d644b)
 
-  *Ref 2: Setting up Static IP on Splunk Server*
+*Ref 2: Setting up Static IP on Splunk Server*
   
 ![VirtualBox_Splunk_07_10_2024_17_32_35](https://github.com/user-attachments/assets/c3064102-bc0a-465d-9bec-1424e103a3ef)
 
@@ -41,7 +41,7 @@ The Active Directory project aimed to establish a controlled environment for man
    
 ![VirtualBox_Splunk_07_10_2024_17_37_41](https://github.com/user-attachments/assets/e5f28e52-efda-4fe5-9f88-abd698c37d9c)
 
- *Ref 2: Setting up Static IP on Splunk Server*
+*Ref 4: Configuring the Splunk server to start up Slpunk everytime the VM is rebooted*
 
   
 
