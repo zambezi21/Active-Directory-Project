@@ -47,7 +47,7 @@ The Active Directory project aimed to establish a controlled environment for man
 
  *Ref 5: Screen that you will have if both Windows Target and Windows Server have Splunk and Sysmon installed and giving data*
 
-- The fourth step was to install and configure Active Directory onto the Windows Server, promote the AD to a Domain Contoller, and congfigure the target machine to join the new Domain. On the Windows Server Manager by using the add roles and features a role/feature based install was selected for the Windows server with the Active Directory Certification Services role. Then install the AD Domain services. Once done then promote the server to a domain controller and create one and create users for the domain. Then go over to the Windows 10 VM. Then change the computer name and join the Domain of mutende.local and make sure the DNS server is pointing to the Domain Contoller. Then join the 
+- The fourth step was to install and configure Active Directory onto the Windows Server, promote the AD to a Domain Contoller, and congfigure the target machine to join the new Domain. On the Windows Server Manager by using the add roles and features a role/feature based install was selected for the Windows server with the Active Directory Certification Services role. Then install the AD Domain services. Once done then promote the server to a domain controller and create one and create users for the domain. Then go over to the Windows 10 VM. Then change the computer name and join the Domain of mutende.local and make sure the DNS server is pointing to the Domain Contoller. Then join the Domain with the admin credentials. Then sign into the Domain with the credentials of Jenny Smith.
 
   ![VirtualBox_ADDCO1_08_10_2024_15_28_09](https://github.com/user-attachments/assets/09adec23-be71-453b-8592-5dc31a10a2c9)
 
@@ -59,7 +59,9 @@ The Active Directory project aimed to establish a controlled environment for man
 
   ![Screenshot(8)](https://github.com/user-attachments/assets/d338ba4a-578d-4725-a1f0-d5a84f90b5f7)
 
- *Ref 8: Setting up Static IP on Splunk Server*
+ *Ref 8:Joining the Domain*
+
+ -The fifth and final part is use Kali to preform a Brute Force Attack on the Domain users and view telemetry via Splunk.
  
  ![Screenshot(9)](https://github.com/user-attachments/assets/03685e4a-5b9c-4718-8438-8f80b741f689)
 
