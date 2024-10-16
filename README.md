@@ -34,7 +34,9 @@ The Active Directory project aimed to establish a controlled environment for man
   ![VirtualBox_Splunk_07_10_2024_14_09_16](https://github.com/user-attachments/assets/bba7605a-5bd6-4088-bdbe-fae2de1d644b)
 
   *Ref 2: Setting up Static IP on Splunk Server*
+  
   ![VirtualBox_Splunk_07_10_2024_17_32_35](https://github.com/user-attachments/assets/c3064102-bc0a-465d-9bec-1424e103a3ef)
+  
    *Ref 3: Installing Spunk onto the Splunk Server*
   
 
